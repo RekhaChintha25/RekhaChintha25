@@ -1,14 +1,14 @@
-\<h1 align="center">Hi 👋, I'm Chintha Bindhu Rekha\</h1>
+<h1 align="center">Hi 👋, I'm Chintha Bindhu Rekha</h1>
 
-\<h3 align="center">🤖 GenAI Enthusiast | Python Developer | Backend Developer\</h3>
+<h3 align="center">GenAI Enthusiast | Python Developer | Backend Developer</h3>
 
-\<p align="center">
-&#x20; Building intelligent applications with Python, FastAPI, Generative AI and Large Language Models.
-\</p>
+<p align="center">
+  Building intelligent applications with Python, FastAPI, Generative AI and Large Language Models.
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=RekhaChintha25&label=Profile%20Views&color=blue&style=flat](https://komarev.com/ghpvc/?username=RekhaChintha25\&label=Profile%20Views\&color=blue\&style=flat)" alt="Profile Views"/>
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RekhaChintha25&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -19,7 +19,7 @@
 - 🤖 Exploring Generative AI and Large Language Models.
 - 🚀 Currently exploring and building AI-based projects.
 - 🧠 Learning AI Agents, RAG, LangChain and LangGraph.
-- ⚡ Exploring MCP and Multi-Agent Systems.
+- ⚡ Exploring Model Context Protocol (MCP) and Multi-Agent Systems.
 - 👩‍💻 Java Full Stack Development training at TAP Academy.
 - 📍 Bengaluru, Karnataka, India.
 
@@ -29,11 +29,15 @@
 
 ### 💻 Programming Languages
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=python,java,javascript](https://skillicons.dev/icons?i=python,java,javascript)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
 
 ### 🤖 AI & Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 - Generative AI
 - Large Language Models (LLMs)
@@ -49,9 +53,9 @@
 
 ### ⚙️ Backend Development
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=python,fastapi,flask](https://skillicons.dev/icons?i=python,fastapi,flask)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
 
 - Python
 - FastAPI
@@ -60,10 +64,13 @@
 - Microservices
 - Async Programming
 - Authentication
+- Backend Architecture
 
 ### 🎨 Frontend Development
 
-\<p> \<img src="[https://skillicons.dev/icons?i=html,css,react,javascript](https://skillicons.dev/icons?i=html,css,react,javascript)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
 
 - HTML5
 - CSS3
@@ -72,9 +79,9 @@
 
 ### 🗄️ Databases
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=mysql,mongodb](https://skillicons.dev/icons?i=mysql,mongodb)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 - MySQL
 - MongoDB
@@ -83,7 +90,18 @@
 
 ### 🔧 Tools & Platforms
 
-\<p> \<img src="[https://skillicons.dev/icons?i=git,github,gitlab,jenkins,postman,vscode,eclipse](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,postman,vscode,eclipse)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,postman,vscode,eclipse" />
+</p>
+
+- Git
+- GitHub
+- GitLab
+- Jenkins
+- Postman
+- VS Code
+- Eclipse
+- Jupyter Notebook
 
 ---
 
@@ -92,17 +110,17 @@
 - Generative AI Applications
 - LLM Application Development
 - Advanced FastAPI
-- LangChain & LangGraph
+- LangChain and LangGraph
 - Retrieval-Augmented Generation (RAG)
-- AI Agents & Multi-Agent Systems
+- AI Agents and Multi-Agent Systems
 - Model Context Protocol (MCP)
-- Backend Architecture
+- Backend Development
 
 ---
 
 ## 💼 Internship Experience
 
-**Java Full Stack Developer | TAP Academy**
+### Java Full Stack Developer | TAP Academy
 
 📍 Bengaluru | January 2026 – August 2026
 
@@ -111,6 +129,16 @@
 - Built responsive interfaces using HTML, CSS and JavaScript.
 - Applied OOP principles, Collections Framework and exception handling.
 - Gained working knowledge of Spring and Spring Boot.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology – Computer Science and Engineering**
+
+Sir C V Raman Institute of Technology and Sciences
+
+2022 – 2026 | 80%
 
 ---
 
@@ -123,20 +151,44 @@
 
 ## 🤝 Connect With Me
 
-\<p align="left"> \<a href="[https://www.linkedin.com/in/chintha-bindhurekha/](https://www.linkedin.com/in/chintha-bindhurekha/)" target="\_blank"> \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="45"/> \</a> \<a href="[https://github.com/RekhaChintha25](https://github.com/RekhaChintha25)" target="\_blank"> \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" width="45"/> \</a> \<a href="[https://leetcode.com/u/Chinthabindhurekha/](https://leetcode.com/u/Chinthabindhurekha/)" target="\_blank"> \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg)" width="45"/> \</a> \</p>
+<p align="center">
 
-📧 **Email:** [bindhu252005@gmail.com](mailto\:bindhu252005@gmail.com)
+<a href="https://www.linkedin.com/in/chintha-bindhurekha/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://github.com/RekhaChintha25" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<a href="https://leetcode.com/u/Chinthabindhurekha/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
+</a>
+
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> bindhu252005@gmail.com
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center"> \<img src="[https://github-readme-stats.vercel.app/api?username=RekhaChintha25&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=RekhaChintha25\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="180"/> \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RekhaChintha25&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=RekhaChintha25\&layout=compact\&theme=tokyonight\&hide_border=true)" height="180"/> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RekhaChintha25&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-\<p align="center"> \<img src="[https://streak-stats.demolab.com?user=RekhaChintha25&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=RekhaChintha25\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekhaChintha25&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RekhaChintha25&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-\<h3 align="center">✨ Building | Learning | Innovating ✨\</h3>
+<h3 align="center">✨ Building | Learning | Innovating ✨</h3>
 
-\<h4 align="center">Thanks for visiting my profile! 💜\</h4>
+<h4 align="center">Thanks for visiting my profile! 💜</h4>
