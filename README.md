@@ -1,45 +1,182 @@
+<h1 align="center">Hi 👋, I'm Chintha Bindhu Rekha</h1>
 
-<h1 align="center">Hi 👋, My name is Chintha Lalitha</h1>
-<h3 align="center">A learner and coding enthusiast👩‍💻</h3>
+<h3 align="center">🤖 GenAI Enthusiast | Python Developer | Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitha145&label=Profile%20views&color=0e75b6&style=flat" alt="lalitha145" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitha145" alt="lalitha145" /></a> </p>
-
-- 🌱 I’m currently working as a Backend Engineer at **Indegene**
-  
-- 🙂 I am **Gen AI** enthusiast and I am currently learning Gen AI and **building projects on Gen AI**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/lalitha145)
-
-- 👯 Proficient with "Java,and Python language"
-
-
-- 💬 Ask me about **Java, Python, Datastructures and Algorithms, SQL, Object Oriented Progrmming**
-
-- 📫 How to reach me **chinthalalitha2004@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XdkROB0f1jwseBRVFI2BCmJrhdEPu9B6/view?usp=sharing](https://drive.google.com/file/d/1XdkROB0f1jwseBRVFI2BCmJrhdEPu9B6/view?usp=sharing)
-- ⚡ Solved 1100+ problems on [Leetcode](https://leetcode.com/u/ChinthaLalitha3/)
-- ⚙️ Eager to learn new tech and framework to improve existing technology.
-- 😊 My portfolio : [Portfolio](https://portfolio1-rouge-eight.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chintha-lalitha-044bb9235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lalitha-chintha-044bb9235/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chinthalalitha3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinthalalitha3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/chinthalalitha2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/chinthalalitha2004/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<h3 align="center">🐍 Snake Animation</h3>
 <p align="center">
-  <img src="https://github.com/lalitha145/github_snake/blob/main/github-snake.svg" alt="Snake Animation" />
+  Building intelligent applications with Generative AI, Python, FastAPI and LLMs.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitha145&show_icons=true&locale=en&layout=compact" alt="lalitha145" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RekhaChintha25&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitha145&show_icons=true&locale=en" alt="lalitha145" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitha145&" alt="lalitha145" /></p>
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Graduate (2026).
+- 🤖 Passionate about Artificial Intelligence and Generative AI.
+- 💻 Building LLM-powered applications using Python, FastAPI and Azure OpenAI.
+- 🧠 Interested in AI Agents, RAG, LangChain and LangGraph.
+- 🚀 Developed AI projects: MeetingSenseAI and Resume Insight AI.
+- 🌱 Currently learning advanced GenAI concepts and AI Agent development.
+- ☕ Trained in Java Full Stack Development at TAP Academy.
+- 💬 Ask me about Python, Java, FastAPI, REST APIs, SQL and Generative AI.
+- 📍 Bengaluru, Karnataka, India.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+### AI & Generative AI
+
+- Generative AI
+- Large Language Models (LLMs)
+- Azure OpenAI
+- OpenAI APIs
+- LangChain
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- Model Context Protocol (MCP)
+- Multi-Agent Systems
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+</p>
+
+- Python
+- FastAPI
+- Flask
+- REST APIs
+- Microservices
+- Async Programming
+- Authentication
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,javascript" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+- MySQL
+- MongoDB
+- Pinecone
+- Oracle
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,postman,vscode,eclipse" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. MeetingSenseAI
+
+**AI-Powered Meeting Summarization Platform**
+
+Tech Stack: React | Python | FastAPI | Azure OpenAI | Audio Processing
+
+- Built a multimodal AI platform to process meeting recordings.
+- Generates transcripts, summaries, action items and email drafts.
+- Implemented asynchronous processing with audio chunking and parallel transcription.
+- Achieved 3× faster processing and 99%+ reliability.
+
+### 2. Resume Insight AI
+
+**AI-Powered Resume Analyzer**
+
+Tech Stack: React | Python | Azure OpenAI | GPT-4o | PDF Processing
+
+- Developed an LLM-powered application to analyze PDF resumes.
+- Generates ATS compatibility scores from 0–100.
+- Implemented keyword gap analysis across 100+ technical terms.
+- Provides section-level feedback using structured prompting.
+
+---
+
+## 💼 Internship Experience
+
+**Java Full Stack Developer | TAP Academy**
+
+📍 Bengaluru | January 2026 – August 2026
+
+- Developed two full-stack applications using Java, JDBC and MySQL.
+- Implemented secure login, session management and CRUD operations.
+- Built responsive interfaces using HTML, CSS and JavaScript.
+- Applied OOP principles, Collections Framework and exception handling.
+- Gained working knowledge of Spring and Spring Boot.
+
+---
+
+## 🎯 Currently Learning
+
+- Generative AI and LLM Applications
+- Advanced FastAPI
+- LangChain and LangGraph
+- Retrieval-Augmented Generation
+- AI Agents and Multi-Agent Systems
+- Model Context Protocol (MCP)
+- Backend Architecture
+
+---
+
+## 📜 Certifications
+
+- TAP Academy – Full Stack Web Development Training.
+- NPTEL – Cloud Computing (Silver Medal).
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chintha-bindhurekha/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="https://github.com/RekhaChintha25" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+<a href="https://leetcode.com/u/Chinthabindhurekha/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/>
+</a>
+</p>
+
+📧 **Email:** bindhu252005@gmail.com
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RekhaChintha25&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekhaChintha25&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RekhaChintha25&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">✨ Building | Learning | Innovating ✨</h3>
+
+<h4 align="center">Thanks for visiting my profile! 💜</h4>
